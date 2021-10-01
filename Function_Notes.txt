@@ -1,0 +1,6 @@
+functions work as such
+return_function_type  FunctionName   (arguments){
+function body
+Functionbody
+}
+//end of function

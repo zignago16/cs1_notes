@@ -1,0 +1,4 @@
+void clearCIN(void){
+	cin.clear();
+	cin.ignore(32768,'\n');
+}
